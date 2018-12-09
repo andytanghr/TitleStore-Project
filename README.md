@@ -11,7 +11,7 @@
  * HTML
  * CSS
  * JavaScript
- * BootStrap
+ * Bootstrap
 
 ## Authors
  ### Andy Tang - <a href="https://github.com/andytanghr"> @AndyTangHR </a>
