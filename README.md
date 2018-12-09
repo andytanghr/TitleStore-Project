@@ -2,7 +2,7 @@
 
 <p> EZform for business is a technical solution for automated documentation. Built upon the PyfPDF and PyPDF2 libraries, EZform for Business is an easily scalable solution that can be easily intergrated into most backend web stacks such as Django, Node.js, Ruby on Rails, and even PHP. </p>
 
-<img src="https://media.giphy.com/media/BZhxtYaolCKNQfBT2V/giphy.gif">
+<img src="https://i.giphy.com/BZhxtYaolCKNQfBT2V.gif">
 
 ## Key Technologies
  * Python
